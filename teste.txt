@@ -1,4 +1,5 @@
-Aqui um arquivo transcrito para ser aberto 
-Encriptar e desencriptar
-Com os arquivos em Python extensão py
-Nomes decrypter e encrypter
+Aqui um arquivo para teste 
+para ser usado pelo 
+encrypter
+decrypter
+ambos escritos em python.
