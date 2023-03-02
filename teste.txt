@@ -1,0 +1,4 @@
+Aqui um arquivo transcrito para ser aberto 
+Encriptar e desencriptar
+Com os arquivos em Python extensão py
+Nomes decrypter e encrypter
